@@ -1,1 +1,3 @@
-# POP
+#COSC320
+Zayed Alnuaimi
+100061300
